@@ -1,0 +1,12 @@
+LVL 4
+
+Gen №564
+Pack SIZE : 801
+steps X : 344
+steps Y : 344
+DEVIATION from the goal : 14.32
+Quality Index : 2.86
+STEP Index : 0.86
+DIV Index : 1.33
+WIN Index : 1
+

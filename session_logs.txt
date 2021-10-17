@@ -1,0 +1,24 @@
+-------------------------
+	 LVL0
+-------------------------
+	Gen ¹0
+Pack SIZE : 500
+steps X : 9892
+steps Y : 9892
+DEVIATION from the goal : 18.38
+Quality Index : 2.02
+STEP Index : 0.02
+DIV Index : 1.15
+WIN Index : 1
+TOTAL QI : 122.75
+MUTATION factor : 0.2
+
+	Gen ¹1
+Pack SIZE : 501
+IV Index : 1.15
+WIN Index : 1
+TOTAL QI : 122.75
+MUTATION factor : 0.2
+
+	Gen ¹1
+Pack SIZE : 501
